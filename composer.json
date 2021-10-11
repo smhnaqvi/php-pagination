@@ -1,14 +1,15 @@
 {
-    "name": "smhnaqvi/pagination",
-    "description": "library for create easly pagination with json format for rest api responses",
-    "authors": [
-        {
-            "name": "smhnaqvi111",
-            "email": "smhanqvi111@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=7.4",
-        "another-vendor/package": "1.*"
+  "name": "smhnaqvi/pagination",
+  "description": "simple library for easily create pagination with json format for rest api responses",
+  "type": "library",
+  "authors": [
+    {
+      "name": "smhnaqvi111",
+      "email": "smhanqvi111@gmail.com"
     }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "another-vendor/package": "1.*"
+  }
 }
