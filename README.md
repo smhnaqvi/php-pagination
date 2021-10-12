@@ -5,13 +5,13 @@
 ### install package using composer
 
 ```composer
-composer require smhnaqvi/pagination
+composer require smhnaqvi/json-response
 ```
 #### OR
 
 ### clone from github repository
 ```composer
-git clone git@github.com:smhnaqvi/php-pagination.git
+git clone git@github.com:smhnaqvi/php-json-response.git
 ```
 ### usage
 
