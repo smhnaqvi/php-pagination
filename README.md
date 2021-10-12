@@ -2,6 +2,19 @@
 
 #### simple library to create easily pagination for rest apis json response
 
+### install package using composer
+
+```composer
+composer require smhnaqvi/pagination
+```
+#### OR
+
+### clone from github repository
+```composer
+git clone git@github.com:smhnaqvi/php-pagination.git
+```
+### usage
+
 ```php
 
 use Libraries\Pagination\Pagination;
